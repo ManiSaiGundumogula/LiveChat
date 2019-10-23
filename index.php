@@ -1,6 +1,6 @@
 <HTML>
 <title>
-  Mani Sai
+  Mani Sai - Surya
   </title>
 <head>
 <style>
